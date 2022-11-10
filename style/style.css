@@ -39,7 +39,7 @@ ul{
 }
 .header__content{
     height: 800px;
-    background: gray;
+    background: red;
     display: flex;
     flex-direction: column;
     align-items: center;
